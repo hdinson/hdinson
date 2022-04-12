@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-                                </div><div data-report-view="{&quot;mod&quot;:&quot;1585297308_001&quot;,&quot;dest&quot;:&quot;https://blog.csdn.net/zwluoyuxi/article/details/107600491&quot;,&quot;extend1&quot;:&quot;pc&quot;,&quot;ab&quot;:&quot;new&quot;}"><div></div></div>
-            <link href="https://csdnimg.cn/release/phoenix/mdeditor/markdown_views-60ecaf1f42.css" rel="stylesheet">
-                            </div>
+[![Anurag's github stats](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBp?x-oss-process=image/format,png)](https://github.com/hdinson/github-readme-stats)
